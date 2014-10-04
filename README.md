@@ -2,6 +2,9 @@
 
 A simpler method for determining critical hits heavily inspired by [C. Steven Ross’ Critical Cards](http://triumphdespair.wordpress.com/2014/07/11/critical-cards/)
 
+## Downloading
+If you are not familiar with Github, the easiest way to get all these cards is to go to [the releases page](https://github.com/citizenparker/EotE-Critical-Cards/releases) and click the "Download source code" button for the most recent release.
+
 ## How it Works
 When a character, ship, or vehicle would normally suffer a critical hit, roll a single d10 instead. Essentially, anytime the rules call to add +10 to the critical roll, add +1 instead. Specifically, add +1 to that roll for each of the following:
 * Each critical hit held by the victim already
