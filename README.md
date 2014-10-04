@@ -11,7 +11,20 @@ When a character, ship, or vehicle would normally suffer a critical hit, roll a 
 
 Likewise, each rank of Durable on the character subtracts one from the roll.
 
-If the result is between 1 and 6, randomly draw from the “Minor” cards (previously “Easy”). Draw from “Major” (previously “Average”) between 7 and 11. Draw from “Severe” (previously “Hard”) on a result of 12 to 15. Rolls of 16 or higher draw the appropriate “Final” card (a new category of critical hit that is usually “death with a slim chance to escape”).
+Total Result | Effect
+-------------|-------
+1 to 6       | Draw one card from the “Minor” cards (previously “Easy”).
+7 to 11      | Draw one card from the “Major” cards (previously “Average”). 
+12 to 15     | Draw one card from the “Severe” cards (previously “Hard”).
+16 or above  | Draw the appropriate “Final” card (a new category of critical hit that is an amalgam of Daunting and Death results that is roughly “death with a slim chance to escape”).
+
+## Main Changes from C. Stephen Ross' Version
+First, Mr. Ross' version is fantastic and is clearly the inspiration for this. You should definitely check [his version]((http://triumphdespair.wordpress.com/2014/07/11/critical-cards/)) out to see if it is to your liking. The idea of this is more-or-less the same but is kinder to the player in a couple of ways.
+
+His version only contained "Minor" and "Major" which combined "Easy/Average" and "Hard/Daunting" from the published system. This breaks these out into defined layers to reduce the chance of drawing a nasty critical on your first, relatively minor critical hit. Additionally, I have removed Daunting entirely and combined the  "Bleeding Out" with "Death" to come up with a marginally friendlier, fatal critical hit.
+
+## Editing
+Two files are included for [the Pixlr online photo editor](http://apps.pixlr.com/editor), `critical_cards.pxd` and `critical_cards_back.pxd` in case you wish to make your own changes.
 
 ## License
 
