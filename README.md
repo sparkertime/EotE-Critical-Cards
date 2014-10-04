@@ -12,3 +12,9 @@ When a character, ship, or vehicle would normally suffer a critical hit, roll a 
 Likewise, each rank of Durable on the character subtracts one from the roll.
 
 If the result is between 1 and 6, randomly draw from the “Minor” cards (previously “Easy”). Draw from “Major” (previously “Average”) between 7 and 11. Draw from “Severe” (previously “Hard”) on a result of 12 to 15. Rolls of 16 or higher draw the appropriate “Final” card (a new category of critical hit that is usually “death with a slim chance to escape”).
+
+## License
+
+All work within this repo is released under a [Creative Commons Attribution-NonCommercial 3.0 United States](https://creativecommons.org/licenses/by-nc/3.0/us/) license. Essentially you are welcome to do what you like with this as long as you provide attribution and don't charge for it.
+
+Star Wars, Edge of the Empire, and all associated works remain the copyright of their respective copyright holders.
